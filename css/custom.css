@@ -6,4 +6,6 @@ p {
 }
 p.lead {
   border-bottom: 1px solid #ddd;
+  font-style: italic;
+  font-weight: bold;
 }
