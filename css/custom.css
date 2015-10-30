@@ -9,3 +9,6 @@ p.lead {
   font-style: italic;
   font-weight: bold;
 }
+em.support-message {
+  font-size: 20px;
+}
