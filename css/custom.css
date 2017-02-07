@@ -4,7 +4,7 @@
 p {
   font-size: 20px;
 }
-p.lead {
+p.lead.email {
   border-bottom: 1px solid #ddd;
   font-style: italic;
   font-weight: bold;
